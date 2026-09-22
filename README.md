@@ -95,8 +95,8 @@ Each test case follows a standard QA structure:
 4.  Click Sign Up  
 
 **Test Data:**
-* **Name:** Md Sayem Mottakee  
-* **Email:** sayemmottakee2000@gmail.com  
+* **Name:** Ariful Islam  
+* **Email:** [arifulislam.ash8@gmail.com](mailto:arifulislam.ash8@gmail.com)  
 * **DOB:** 01/Jan/1995  
 * **Password:** Test@1234!
 
@@ -182,3 +182,10 @@ It shows strong capability in:
 ✔ Defect Management  
 ✔ Reporting & Analysis  
 ✔ Agile QA Process Understanding
+
+---
+
+## 👤 Author
+
+* **Name:** Ariful Islam  
+* **Email:** [arifulislam.ash8@gmail.com](mailto:arifulislam.ash8@gmail.com)
